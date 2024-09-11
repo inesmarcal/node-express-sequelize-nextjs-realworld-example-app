@@ -33,10 +33,10 @@
   "license": "ISC",
   "dependencies": {
     "axios": "0.19.2",
-    "body-parser": "1.15.0",
+    "body-parser": "1.20.3",
     "commander": "6.2.1",
     "cors": "2.7.1",
-    "express": "4.13.4",
+    "express": "4.20.0",
     "express-jwt": "3.3.0",
     "express-session": "1.13.0",
     "ionicons": "2.0.1",
